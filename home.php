@@ -3,6 +3,7 @@
     <head>
         <title> Home </title>
     </head>
+    
             <body>
                 <h1>Hello World</h1>
                 <img src="../images/123.jpg"
@@ -12,6 +13,7 @@
                    username:<input type="text" name="uname">
                    password:<input type="password" name="pass">
                    <input type ="submit" name="submit"  value="submit">
+</form>
 
 </body>
 </html> 
